@@ -1,0 +1,43 @@
+body{
+  background-color: goldenrod;
+  font-family: arial, helvetica, sans-serif;
+  margin: 10px 10px 10px 10px
+}
+
+h1{
+  color: red;
+  text-shadow: 3px 3px firebrick;
+  font-size: 36px;
+  text-align: center;
+
+}
+
+h3{
+  color: red;
+  font-size: 27px;
+  text-shadow: 3px 3px firebrick;
+}
+
+p, li{
+  color: white;
+  font-size: 25px;
+  weight: bold
+}
+
+}
+#header{
+  outline: 10px dashed red;
+
+  padding: 5px
+  weight: normal ;
+
+}
+.pic:hover{
+  -webKit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+
+
+
+}
